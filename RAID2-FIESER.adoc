@@ -55,6 +55,8 @@ Ils devront également activer les manivelles d'eau au moment voulu.
 
 1* tank sur A : ce dernier doit entrer légèrement dans la salle du boss pour donner au healer les codes d'erreur qui sont affichés sous la porte B, vérifier qu'il possède bien 2 roquettes dans son sas et si ce n'est pas le cas : prévenir les dps de l'allée C pour qu'ils en brisent une dès que possible. Il doit aussi tirer au bon moment et rapidement les deux roquettes sur le canon au fond de la salle du boss, tirer régulièrement sur le boss pour lui entamer sa vie, parfois rester un moment dans la salle du boss pour l'empêcher d'attaquer la salle de contrôle et lui ôter un maximum de protection, rester dans la salle pour attirer le boss pendant qu'un dps de C brise les points faibles du creuset, etc.
 
+== PHASE 1
+
 - Le tank entre par la porte A dans la salle du boss, donne au healer le code d'erreur et ressort immédiatement dans l'allée A.
 - Le healer donne la description du symbole à tout le monde (le creuset plein est celui avec de la couleur blanche dedans).
 - Le dps sur A va voir l'écran dans l'angle des allées A et B et le tank va voir l'écran au fond de l'allée A. Les autres dps font de même avec leurs écrans respectifs (1 joueur sur chaque ecran de l'allée C et 1 joueur pour les deux écrans de B).
