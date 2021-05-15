@@ -1,6 +1,6 @@
 = FIESER
 KOENIGSEB
-v1.0 (1), 2021-05-15: FIESER
+v1.0 (zedoude-2), 2021-05-15: branche zedoude
 :doctype: book
 :experimental:
 :icons: font
@@ -22,7 +22,19 @@ Version Date: {revdate}
 
 Version Notes: {revremark}
 
-== COMPOSITION D'ÉQUIPE
+v1.0 (zedoude-2), 2021-05-15: branche zedoude
+
+* Ajustements cosmétiques.
+* Schéma de la carte (map-FIESER.{monopic,png,txt}.
+* Binômes.
+
+v1.0 (zedoude-1), 2021-05-15: branche zedoude
+
+* Définition de callsigns.
+* Modification du texte pour utiliser les callsigns.
+* Ajout du tableau des symboles.
+
+== COMPOSITION D'ÉQUIPE ET CALLSIGNS
 
 - 1 healer dans la salle de contrôle, personne d'autre ne doit rentrer dans la salle, cette dernière étant rapidement verrouillée. (*HEALER*)
 - 1 dps qui contrôle l'étage et les escaliers A et C. (*DPSUP*)
@@ -66,7 +78,7 @@ Il devra constamment démober toute l'allée A et le moment venu, activer une ou
 - TANK entre par la porte A dans la salle du boss, donne à HEALER le code d'erreur et ressort immédiatement dans l'allée A.
 - HEALER donne la description du symbole à tout le monde (le creuset plein est celui avec de la couleur blanche dedans).
 - DPSA va voir l'écran dans l'angle des allées A et B et TANK va voir l'écran au fond de l'allée A. Les autres dps font de même avec leurs écrans respectifs (1 joueur sur chaque ecran de l'allée C et 1 joueur pour les deux écrans de B).
-- Quand quelqu'un voit le symbole sur son écran, il dit "Machin, c'est pour toi" ; puis Machin tire sur son boîtier électrique. Si les écrans deviennent vert, l'étape est réussie.
+- Quand quelqu'un voit le symbole sur son écran, il annonce à son binôme "Machin, c'est pour toi" ; puis Machin tire sur son boîtier électrique. Si les écrans deviennent vert, l'étape est réussie.
 - Le boss spawn et commence à attaquer la salle de contrôle. TANK doit donc régulièrement l'attirer entre deux phases de codes d'erreur. Si cela n'est pas fait, le boss brisera la vitre de la salle de contrôle et le healer mourera rapidement.
 - L'étape des codes d'erreur est à répéter 4 fois après le spawn du boss, soit 5 fois au total (à vérifier, peut-être qu'il faut le faire 4 fois au total).
 
@@ -117,7 +129,7 @@ Il est désormais possible d'accéder en toute sécurité à la salle du boss po
 
 La sortie vers le prochain boss "Williams" se trouve en face du sas allée A.
 
-== Table des codes
+== TABLE DES CODES
 
 KOENIGSEB a communiqué le tableau suivant :
 
@@ -128,3 +140,14 @@ KOENIGSEB a communiqué le tableau suivant :
 |===
 
 HEALER donnera les symboles de la case correspondant au code donné par TANK.
+
+== BINÔMES
+
+* DPSA + TANK
+* DPSC
+* DPSDOWN
+
+== Schéma du niveau
+
+image::map-FIESER.png[]
+
